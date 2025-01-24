@@ -1,0 +1,100 @@
+{
+  "total_count": 5,
+  "artifacts": [
+    {
+      "id": 2480836792,
+      "node_id": "MDg6QXJ0aWZhY3QyNDgwODM2Nzky",
+      "name": "banane",
+      "size_in_bytes": 6011,
+      "url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480836792",
+      "archive_download_url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480836792/zip",
+      "expired": false,
+      "created_at": "2025-01-24T13:20:20Z",
+      "updated_at": "2025-01-24T13:20:20Z",
+      "expires_at": "2025-04-24T13:20:02Z",
+      "workflow_run": {
+        "id": 12950454721,
+        "repository_id": 919963208,
+        "head_repository_id": 919963208,
+        "head_branch": "main",
+        "head_sha": "c4f09fa9831ab733e985fa845420c824a1cf82bd"
+      }
+    },
+    {
+      "id": 2480767619,
+      "node_id": "MDg6QXJ0aWZhY3QyNDgwNzY3NjE5",
+      "name": "banane",
+      "size_in_bytes": 6011,
+      "url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480767619",
+      "archive_download_url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480767619/zip",
+      "expired": false,
+      "created_at": "2025-01-24T13:06:12Z",
+      "updated_at": "2025-01-24T13:06:12Z",
+      "expires_at": "2025-04-24T13:05:55Z",
+      "workflow_run": {
+        "id": 12950224416,
+        "repository_id": 919963208,
+        "head_repository_id": 919963208,
+        "head_branch": "main",
+        "head_sha": "17531d8d7ec71b0d6d8caa48d9d11626847bfbc2"
+      }
+    },
+    {
+      "id": 2480761377,
+      "node_id": "MDg6QXJ0aWZhY3QyNDgwNzYxMzc3",
+      "name": "banane",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480761377",
+      "archive_download_url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480761377/zip",
+      "expired": false,
+      "created_at": "2025-01-24T13:04:54Z",
+      "updated_at": "2025-01-24T13:04:54Z",
+      "expires_at": "2025-04-24T13:04:37Z",
+      "workflow_run": {
+        "id": 12950202049,
+        "repository_id": 919963208,
+        "head_repository_id": 919963208,
+        "head_branch": "main",
+        "head_sha": "d969f7374dfd6d2f97ccc09496a4a2e40e2e60c7"
+      }
+    },
+    {
+      "id": 2480757621,
+      "node_id": "MDg6QXJ0aWZhY3QyNDgwNzU3NjIx",
+      "name": "banane",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480757621",
+      "archive_download_url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2480757621/zip",
+      "expired": false,
+      "created_at": "2025-01-24T13:04:07Z",
+      "updated_at": "2025-01-24T13:04:07Z",
+      "expires_at": "2025-04-24T13:03:48Z",
+      "workflow_run": {
+        "id": 12950188014,
+        "repository_id": 919963208,
+        "head_repository_id": 919963208,
+        "head_branch": "main",
+        "head_sha": "ac754afe6e51044c5fa2f26a22b37201cce1bd98"
+      }
+    },
+    {
+      "id": 2467095537,
+      "node_id": "MDg6QXJ0aWZhY3QyNDY3MDk1NTM3",
+      "name": "banane",
+      "size_in_bytes": 1071,
+      "url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2467095537",
+      "archive_download_url": "https://api.github.com/repos/PoseidonEnRT/graphes/actions/artifacts/2467095537/zip",
+      "expired": false,
+      "created_at": "2025-01-22T10:21:22Z",
+      "updated_at": "2025-01-22T10:21:22Z",
+      "expires_at": "2025-04-22T10:20:10Z",
+      "workflow_run": {
+        "id": 12906077852,
+        "repository_id": 919963208,
+        "head_repository_id": 919963208,
+        "head_branch": "main",
+        "head_sha": "099c7e2746e8ec9a6093fce248c13bd727e3cbb8"
+      }
+    }
+  ]
+}
